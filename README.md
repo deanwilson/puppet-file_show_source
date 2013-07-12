@@ -1,4 +1,4 @@
-Show Source attributes on Puppet file resources
+# Show Source attributes on Puppet file resources #
 
 Have you ever wanted to see which part of your puppet codebase manages a given file?
 
