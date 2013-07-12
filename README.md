@@ -2,8 +2,8 @@
 
 Have you ever wanted to see which part of your puppet codebase manages a given file?
 
-When you set the show_source propertity on a file resource (or globally
-- but that's a little slow) puppet will add extended attributs to show
+When you set the show_source propertity on a file resource (or globally,
+ but that's a little slow) puppet will add extended attributs to show
 where in your modules and manifests the resource is contained. This
 allows easier discovery of how you manage which files in cross team
 environments and also allows further tooling to be based on its output.
